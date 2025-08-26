@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Travis
-- 👀 I’m interested in Pc/ console gaming, pen and paper roleplaying, linguistics, underground Hip Hop, video editing, digital art, and fantasy sports
-- 🌱 I’m experienced in Python, learning Java, some experience in SQL
+- 👀 I’m interested in PC/console gaming, pen and paper roleplaying, linguistics, underground Hip Hop, video editing, digital art, and fantasy sports.
+- 🌱 Experienced in Python, learning Java. Comfortable with regex/ SQL
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (travis.m.hollins@gmail.com)
 
